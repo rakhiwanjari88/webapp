@@ -2,7 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+<<<<<<< HEAD
     <title>Welcome to Jenkins. Happy learning.qwertyu </title>
+=======
+    <title>Welcome to Jenkins.Happy earningl.</title>
+>>>>>>> 33fdfc27662a11fe67957237a36425bb3965e6f2
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 </head>
 <body>
